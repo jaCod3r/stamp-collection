@@ -1,3 +1,4 @@
 Stamp Collection App
 
-New text
+This is an updated text.
+
